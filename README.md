@@ -1,1 +1,2 @@
-# cShare Service for code and video sharin
+# cShare service for code and video sharing
+ 

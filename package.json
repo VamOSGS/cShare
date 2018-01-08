@@ -5,12 +5,16 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    
+    "start": "node ./app",
+    "dev": "nodemon ./app"
   },
   "dependencies": {
-    
+    "koa": "^2.4.1",
+    "koa-body": "^2.5.0",
+    "koa-combine-routers": "^2.0.1",
+    "koa-router": "^7.3.0"
   },
   "devDependencies": {
-    
+    "nodemon": "^1.14.9"
   }
 }
